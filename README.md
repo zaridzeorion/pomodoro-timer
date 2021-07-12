@@ -1,5 +1,8 @@
 # Pomodoro Timer + Tasks
-Simple timer web application, which uses the Pomodoro Technique. App also has the "Tasks" sectionwhere users can make a to-do list, choose one task as a current and do the productive work with the timer! built with ReactJS.
+This is productivity app, that helps people to focus on a single task. They plan breaks and distractions, that make them accountable by stating what they're working on and establishes a routine and rhythm in their life.
+
+## About:
+Simple timer web application, which uses the Pomodoro Technique. App also has the "Tasks" section where users can make a to-do list, choose one task as a current and do the productive work with the timer! built with ReactJS.
 
 ## How to run on your local machine :arrow_heading_down:
 
